@@ -2,7 +2,6 @@
 
 This is the README file for my personal portfolio website. Here, I will provide an overview of the website, its sections, and how to navigate through it effectively.
 
-
 ## Explore my Expertise
 Learn more about me and my professional journey in the "About" section. Discover my educational background, work experience, and achievements that have shaped my career as a web developer. 
 

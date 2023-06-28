@@ -64,14 +64,14 @@ GitHubCalendar(".calendar", "hasbealam", { responsive: true });
 var resumeLink = document.querySelector("#resume-button-1");
 resumeLink.addEventListener("click", function (event) {
   event.preventDefault();
-  // window.open(
-  //   "https://drive.google.com/drive/u/0/my-drive",
-  //   "_blank"
-  // );
+  window.open(
+    "https://drive.google.com/drive/u/0/my-drive",
+    "_blank"
+  );
   let link = document.createElement("a");
   link.href =
-    "https://drive.google.com/file/d/1whEdDExeqS3LFsKVOZ4Bvv9JAYSPkdQP/view?usp=sharing";
-  link.download = "MUTAYYAB-MOHIB-KHAN";
+    "https://drive.google.com/file/d/1ps5mMt0B7RSdj5_TI2Lu0JGwc03yMSZ6/view?usp=sharing";
+  link.download = "Nadimuddin-Shaikh-Resume";
   link.click();
 });
 
