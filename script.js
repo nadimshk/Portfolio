@@ -58,14 +58,14 @@ btnScrollToTop.addEventListener("click", function () {
   });
 });
 
-GitHubCalendar(".calendar", "hasbealam", { responsive: true });
+GitHubCalendar(".calendar", "nadimshk", { responsive: true });
 
 // Resume
 var resumeLink = document.querySelector("#resume-button-1");
 resumeLink.addEventListener("click", function (event) {
   event.preventDefault();
   window.open(
-    "https://drive.google.com/drive/u/0/my-drive",
+    "https://drive.google.com/file/d/1ps5mMt0B7RSdj5_TI2Lu0JGwc03yMSZ6/view?usp=drive_link",
     "_blank"
   );
   let link = document.createElement("a");
@@ -79,7 +79,7 @@ var resumeLink = document.querySelector("#resume-button-2");
 resumeLink.addEventListener("click", function (event) {
   event.preventDefault();
   window.open(
-    "https://drive.google.com/drive/u/0/my-drive",
+    "https://drive.google.com/file/d/1ps5mMt0B7RSdj5_TI2Lu0JGwc03yMSZ6/view?usp=drive_link",
     "_blank"
   );
   let link = document.createElement("a");
